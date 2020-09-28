@@ -16,7 +16,6 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 @SpringBootApplication
-//@EnableSwagger2
 public class SimpleserverApplication {
 
     public static void main(String[] args) {
