@@ -16,10 +16,10 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 @SpringBootApplication
-public class SimpleserverApplication {
+public class SimpleServerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SimpleserverApplication.class, args);
+        SpringApplication.run(SimpleServerApplication.class, args);
     }
 
 }
